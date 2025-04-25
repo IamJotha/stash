@@ -621,7 +621,7 @@
                         "label": "Sistema de valoración",
                         "options": {
                             "decimal": "Decimal",
-                            "stars": "Estrellas"
+                            "stars": "★"
                         }
                     }
                 }
@@ -1146,7 +1146,7 @@
     "piercings": "Piercings",
     "queue": "Cola",
     "random": "Aleatoria",
-    "rating": "Puntuación",
+    "rating": "★",
     "resolution": "Resolución",
     "scene": "Escena",
     "sceneTagger": "Etiquetador de escenas",
